@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "L4TDIS8znNcQwexgVMwbX8f/shuVZjCXlQH4X6NonNS0ww14JYwPKdUcdiH8eRAyvvoSyUUI1xb2PwUXG71yrw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tsuji\\Google ドライブ\\Programing\\AtCoder\\AlgorithmSkillTest _Practice\\C\\C.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tsuji\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

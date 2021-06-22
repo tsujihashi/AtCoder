@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "A": {
+      "commandName": "Project"
+    },
+    "B": {
+      "commandName": "Executable"
+    },
+    "C": {
+      "commandName": "Executable"
+    }
+  }
+}

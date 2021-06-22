@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Dh+yVs5suvFLWrK5CrP8UwjUQoilojsJoRMvfD3KzUyZ7leeAjAuUFISqwS2VxvubNDEqTKiim2qYUVZ9tr3VA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tsuji\\Google ドライブ\\Programing\\AtCoder\\AlgorithmSkillTest _Practice\\MyLib\\MyLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tsuji\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\tsuji\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

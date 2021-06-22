@@ -1,0 +1,13 @@
+C:\Users\tsuji\OneDrive\デスクトップ\プログラム\AtCoder\AlgorithmSkillTest\C\bin\Debug\netcoreapp3.1\C.exe
+C:\Users\tsuji\OneDrive\デスクトップ\プログラム\AtCoder\AlgorithmSkillTest\C\bin\Debug\netcoreapp3.1\C.deps.json
+C:\Users\tsuji\OneDrive\デスクトップ\プログラム\AtCoder\AlgorithmSkillTest\C\bin\Debug\netcoreapp3.1\C.runtimeconfig.json
+C:\Users\tsuji\OneDrive\デスクトップ\プログラム\AtCoder\AlgorithmSkillTest\C\bin\Debug\netcoreapp3.1\C.runtimeconfig.dev.json
+C:\Users\tsuji\OneDrive\デスクトップ\プログラム\AtCoder\AlgorithmSkillTest\C\bin\Debug\netcoreapp3.1\C.dll
+C:\Users\tsuji\OneDrive\デスクトップ\プログラム\AtCoder\AlgorithmSkillTest\C\bin\Debug\netcoreapp3.1\C.pdb
+C:\Users\tsuji\OneDrive\デスクトップ\プログラム\AtCoder\AlgorithmSkillTest\C\obj\Debug\netcoreapp3.1\C.csprojAssemblyReference.cache
+C:\Users\tsuji\OneDrive\デスクトップ\プログラム\AtCoder\AlgorithmSkillTest\C\obj\Debug\netcoreapp3.1\C.AssemblyInfoInputs.cache
+C:\Users\tsuji\OneDrive\デスクトップ\プログラム\AtCoder\AlgorithmSkillTest\C\obj\Debug\netcoreapp3.1\C.AssemblyInfo.cs
+C:\Users\tsuji\OneDrive\デスクトップ\プログラム\AtCoder\AlgorithmSkillTest\C\obj\Debug\netcoreapp3.1\C.csproj.CoreCompileInputs.cache
+C:\Users\tsuji\OneDrive\デスクトップ\プログラム\AtCoder\AlgorithmSkillTest\C\obj\Debug\netcoreapp3.1\C.dll
+C:\Users\tsuji\OneDrive\デスクトップ\プログラム\AtCoder\AlgorithmSkillTest\C\obj\Debug\netcoreapp3.1\C.pdb
+C:\Users\tsuji\OneDrive\デスクトップ\プログラム\AtCoder\AlgorithmSkillTest\C\obj\Debug\netcoreapp3.1\C.genruntimeconfig.cache
