@@ -1,0 +1,6 @@
+E:\プログラミング練習\AtCoder\Beginner Contest 129\A\A\bin\Debug\A.exe.config
+E:\プログラミング練習\AtCoder\Beginner Contest 129\A\A\bin\Debug\A.exe
+E:\プログラミング練習\AtCoder\Beginner Contest 129\A\A\bin\Debug\A.pdb
+E:\プログラミング練習\AtCoder\Beginner Contest 129\A\A\obj\Debug\A.csprojResolveAssemblyReference.cache
+E:\プログラミング練習\AtCoder\Beginner Contest 129\A\A\obj\Debug\A.exe
+E:\プログラミング練習\AtCoder\Beginner Contest 129\A\A\obj\Debug\A.pdb
